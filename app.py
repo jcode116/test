@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return 'Hello, Azure!'
+    return 'Hello, Azure! This is the fixed version with Solace Packages'
