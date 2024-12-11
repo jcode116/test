@@ -1,2 +1,10 @@
-Flask==2.3.1
-solace-pubsubplus==1.9.0
+Flask
+solace-pubsubplus
+azure-storage-blob
+pyodbc
+pandas
+appinsights
+azure-identity
+azure-keyvault-secrets
+sqlalchemy
+solace
